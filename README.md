@@ -4,6 +4,7 @@ ngStorage
 [![Build Status](https://travis-ci.org/gsklee/ngStorage.svg)](https://travis-ci.org/gsklee/ngStorage)
 [![Dependency Status](https://david-dm.org/gsklee/ngStorage.svg)](https://david-dm.org/gsklee/ngStorage)
 [![devDependency Status](https://david-dm.org/gsklee/ngStorage/dev-status.svg)](https://david-dm.org/gsklee/ngStorage#info=devDependencies)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/ngstorage/badge?style=rounded)](https://www.jsdelivr.com/package/npm/ngstorage)
 
 An [AngularJS](https://github.com/angular/angular.js) module that makes Web Storage working in the *Angular Way*. Contains two services: `$localStorage` and `$sessionStorage`.
 
